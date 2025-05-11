@@ -9,7 +9,7 @@ import io
 import asyncio
 
 # Load environment variables
-TOKEN = "MTM3MDA4MDcxNDk1MDcwNTI5Mw.G2RXPy.EfDJuKgb4Ds3_iZRaiVBgM6dwMoQS4lkkmFIqU"
+TOKEN = "TOKEN"
 
 print(f"Token loaded: {TOKEN is not None}")
 print(f"Token length: {len(TOKEN) if TOKEN else 0}")
